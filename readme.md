@@ -19,7 +19,7 @@ make run
 
 ## Authors
 
-* **David Goldstein** - [Personal Website](https://davidcharlesgoldstein.com)
+* **David Goldstein** - [Personal Website](http://davidcharlesgoldstein.com/?github-linked-list)
 
 ## License
 
